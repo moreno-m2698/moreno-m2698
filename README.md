@@ -1,8 +1,6 @@
 # Greetings!👋
 I'm Michael Moreno, an enthusiastic dev, avid learner, and lover of coffee (black is the only way).
 
-🎵 Check out Kenshi Yonezu, he makes great stuff.
-
 ## Who Am I?:
 I graduated from the __University of Dayton__ in Ohio (Go Flyers!) with a BS degree in Mathematics and am excited to learn more about software engineering and computer science.
 
