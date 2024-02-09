@@ -4,7 +4,7 @@ I'm Michael Moreno, an enthusiastic dev, avid learner, and lover of coffee (blac
 🎵 Check out Kenshi Yonezu, he makes great stuff.
 
 ## Who Am I?:
-I recently graduated from the __University of Dayton__ in Ohio (Go Flyers!) with a BS degree in Mathematics and am excited to learn more about software engineering and computer science.
+I graduated from the __University of Dayton__ in Ohio (Go Flyers!) with a BS degree in Mathematics and am excited to learn more about software engineering and computer science.
 
 - 👀 I’m interested in backend development, DevOps, and full-stack development
 - 📫 You can reach me at: moreno.m2698@gmail.com
