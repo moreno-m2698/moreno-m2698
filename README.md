@@ -12,12 +12,13 @@ I graduated from the __University of Dayton__ in Ohio (Go Flyers!) with a BS deg
 ### __Fjords__:
 Fjords is a data visualization web app for the game __League of Legends__ that I created to challenge myself to learn Java and Spring Boot framework alongside practices in CI/CD using GitHub Actions. 
 
-GitHub Repository [Fjords](https://github.com/moreno-m2698/Fjords)
+GitHub Repository: [Fjords](https://github.com/moreno-m2698/Fjords)
+Link: [Fjords](https://app.fjordsdata.com)
 
 ### __WatchSama__:
 WatchSama is a Python Discord bot that presents data from the website __MyAnimeList__ to help users keep track of the current shows they are watching.
 
-GitHub Repository [WatchSama](https://github.com/moreno-m2698/WatchSama)
+GitHub Repository: [WatchSama](https://github.com/moreno-m2698/WatchSama)
 
 ### __StudyCubby__:
 Study Cubby is an online music player that I used to learn about services provided by AWS as well as managing and designing a full stack application.
