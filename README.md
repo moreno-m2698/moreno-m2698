@@ -29,7 +29,7 @@ GitHub Repositories:
 
 ## What Am I Up To?:
 
-Currently, I'm working on maintaining and refactoring old projects that can be found on my profile.
+Currently, I'm working on an instant messaging app to familiarize myself with C# and the .NET framework.
 
 
 
