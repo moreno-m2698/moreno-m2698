@@ -29,7 +29,7 @@ GitHub Repositories:
 
 ## What Am I Up To?:
 
-Currently, I'm working on an instant messaging app to familiarize myself with C# and the .NET framework.
+Currently, I'm working on an artifact pull simulator for the game Genshin Impact using Vue.js
 
 
 
